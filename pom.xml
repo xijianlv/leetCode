@@ -13,6 +13,11 @@
             <artifactId>spring-core</artifactId>
             <version>5.3.5</version>
         </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.51</version>
+        </dependency>
     </dependencies>
 
     <properties>
